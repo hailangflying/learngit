@@ -4,3 +4,5 @@ Git is free software.
 git is a distributed version control system.
 git is free software distributed under the GPL
 add aaa
+
+git has a mutable index called stage.
